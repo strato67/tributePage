@@ -1,6 +1,53 @@
 #img-div img {
         display: block;
         max-width: 100%;
+        width: 20%;
         height: auto;
         margin: auto;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        
+}
+#img-div{
+        background-color: #D3FAD6;
+                
+        margin: auto;
+        
+}
+#main{
+        text-align: center;
+        /*background:#D1EFB5;*/
+        background-color:#EDEBA0;
+                
+}
+html{
+        background-color:#EDEBA0;
+        
+}
+#img-caption{
+        padding-top: 2%;
+        padding-bottom: 1%;        
+}
+.container{
+        padding-top: 2%;
+}
+.content{
+        background-color: #D3FAD6;
+        max-width: 80%;
+        margin: auto;
+        border-radius: 25pt;
+        padding: 2%;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+footer{
+        padding-top: 2%;
+}
+.content ul{
+        list-style-position: inside;
+        text-align: left;
+}
+.content h3{
+        padding-bottom: 2%;
+}
+.content li{
+        padding-bottom: 4%;
 }
