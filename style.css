@@ -9,7 +9,7 @@
 }
 #img-div{
         background-color: #D3FAD6;
-                
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 15px 25px;                        
         margin: auto;
         
 }
@@ -44,6 +44,8 @@ footer{
 .content ul{
         list-style-position: inside;
         text-align: left;
+        max-width: 70%;
+        margin: auto;
 }
 .content h3{
         padding-bottom: 2%;
